@@ -2,4 +2,6 @@
 
 ## Welcome to the lab of Benjamin Frankfort!
 
-## We study glaucoma pathogenesis, improved methods of diagnosis, and treatment options.
+Website link: [https://frankfort-lab.github.io/frankfort-lab-website/](https://frankfort-lab.github.io/frankfort-lab-website/)
+
+We aim to understand glaucoma progression, improve screening, and use genomic and neuroscience tools for prevention.
